@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my-app",
+    "\\my-app\\src",
+    "\\my-app\\src\\app",
+    "\\my-app\\src\\app\\login",
+    "\\my-app\\src\\app\\signup"
+  ],
+  "SelectedNode": "\\my-app\\src\\app\\in-memory-data.service.ts",
+  "PreviewInSolutionExplorer": false
+}
